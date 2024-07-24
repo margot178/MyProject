@@ -24,3 +24,4 @@ if(guess > targetNumber) {
 // const number = Math.random()
 // console.log(number);
 
+mcmadsei
